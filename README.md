@@ -53,15 +53,5 @@ python mnist_snn_comparison.py
 - `results/` - Figures and metrics
 - `requirements.txt` - Dependencies
 
-## Citation
-```bibtex
-@misc{yourusername2025mnist,
-  title={MNIST SNN vs CNN: Energy Efficiency Study},
-  author={Your Name},
-  year={2025},
-  url={https://github.com/yourusername/mnist-snn-energy-efficiency}
-}
-```
 
-## License
-MIT
+
