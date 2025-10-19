@@ -1,0 +1,24 @@
+
+MNIST SNN vs CNN Results
+========================
+
+SNN Performance:
+- Test Accuracy: 98.27%
+- Train Accuracy: 98.73%
+- Energy: 1.68 µJ
+- Operations: 2.1e7
+
+CNN Performance:  
+- Test Accuracy: 98.90%
+- Train Accuracy: 99.31%
+- Energy: 31.45 µJ
+- Operations: 8.5e8
+
+Energy Efficiency:
+- SNN achieves 18.7x energy reduction
+- Operation reduction: 40.5x
+- Accuracy trade-off: 0.63%
+
+Conclusion:
+SNNs are highly suitable for energy-constrained 
+deployment scenarios with minimal accuracy loss.
